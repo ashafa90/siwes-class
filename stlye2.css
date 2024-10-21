@@ -1,0 +1,45 @@
+#menu{
+    background-color: black;
+}
+#container{
+    background-color: pink;
+}
+#services{
+    background-color: green;
+    margin: 30px;
+    border-radius: 30px;
+    height: 200px;
+}
+
+#business{
+    background-color: brown;
+    
+}
+#mission{
+    background-color: blue;
+    height: 100px;
+  
+}
+#security{
+    background-color: yellow;
+    display: flex;
+}
+.divider{
+    width: 33%;
+}
+#cyber{
+    background-color: black;
+}
+#it {
+    background-color: green;
+
+}
+#consult{
+    background-color: white;
+}
+#cyber1{
+    background-color: white;
+}
+#cloud{
+    background-color: red;
+}

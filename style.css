@@ -1,0 +1,44 @@
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    font-weight:500;
+    color: yellow;
+
+}
+p{
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration-line: underline;
+    display: none;
+}
+
+span{
+    color: blue;
+}
+
+div{
+    background-color: red;
+    width: 50%;
+    margin: 100px;
+    padding-top: 50px;
+}
+
+li {
+   
+    margin:10px;
+   
+    
+}
+ul {
+    text-align: right;
+    display: flex;
+}
+
+a:link{
+    text-decoration: none;
+    text-align: end;
+}
+a:hover{
+    color: red;
+}
+
